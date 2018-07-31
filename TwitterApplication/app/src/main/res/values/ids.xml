@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rlUserHeader" type="id">id_Relative_Layout_Profile</item>
+    <item name="tvTagLine" type="id">tvTagLine</item>
+    <item name="ivTweets" type="id">ivTweets</item>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/myCompose"
+        android:icon="@drawable/tweet"
+        app:showAsAction="ifRoom"
+        android:title="Compose">
+    </item>
+
+    <item
+        android:id="@+id/myProfile"
+        android:icon="@drawable/ic_person_white_24dp"
+        app:showAsAction="ifRoom"
+        android:title="Profile">
+    </item>
+    <item
+        android:id="@+id/myMore"
+        android:icon="@drawable/ic_more_vert_white_24dp"
+        app:showAsAction="ifRoom"
+        android:title="More">
+    </item>
+</menu>
